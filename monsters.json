@@ -119,6 +119,31 @@
     },
     {
       "_id": {
+        "$oid": "5e1562978a80af35ce52d74c"
+      },
+      "name": "Ajarakan",
+      "type": "Fanged Beast",
+      "isLarge": true,
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [
+        "Blastblight"
+      ],
+      "weakness": [
+        "Water",
+        "Ice"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Ajarakan_Icon.png",
+          "info": "Characteristic by their highly developed carapaces, Ajarakan wrap themselves in molten metal that they rub together to heat up and create explosions. Presumably due to the friction of the metal, they can reach high enough temperatures to melt even the ground or bullets. They can also use their strong limbs to grip onto the ceiling and move around freely, so a hunter must watch out from every angle, including above."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e143dab8a80af35ce52d706"
       },
       "name": "Akantor",
@@ -679,6 +704,33 @@
     },
     {
       "_id": {
+        "$oid": "5e1569978a80af353e92d74c"
+      },
+      "name": "Arkveld",
+      "type": "Flying Wyvern",
+      "isLarge": true,
+      "subSpecies": [
+        "Guardian Arkveld"
+      ],
+      "elements": [
+        "Dragon"
+      ],
+      "ailments": [
+        "Dragonblight"
+      ],
+      "weakness": [
+        "Dragon"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Arkveld_Icon.png",
+          "info": "A flying wyvern that was considered extinct according to documents left behind by the Guild. Their wings have a unique, chain-like blade that can extend and retract freely to reap their prey. They feed on elemental energy absorbed through these chainblades, and are able to convert the energy to unleash dragon element attacks."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1570f48a80af35ce52d757"
       },
       "name": "Arzuros",
@@ -916,6 +968,30 @@
     },
     {
       "_id": {
+        "$oid": "5f1569978a80af35ce52d74c"
+      },
+      "name": "Balahara",
+      "type": "Leviathan",
+      "isLarge": true,
+      "elements": [
+        "Water"
+      ],
+      "ailments": [
+        "Muddy"
+      ],
+      "weakness": [
+        "Thunder"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Balahara_Icon.png",
+          "info": "Desert-dwelling leviathans that build carapaces out of fulgurite formed by lightning strikes. They use their flexible skeletons and serpentine bodies to create quicksand traps for unwary prey. Inside their mouths are multiple eye-like sensory organs. The mucus they secret contains luminous bacteria and is believed to aid visibility while they are submerged and other low-light conditions like sandstorms."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1433468a80af35ce52d6f8"
       },
       "name": "Baleful Gigginox",
@@ -1144,6 +1220,39 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Basarios_Icon.png",
           "info": "Juvenile form of a Gravios. Its most distinctive feature is the rock-hard carapace on its back."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e25a0247cc58343965ed7e3"
+      },
+      "name": "Versa Pietru",
+      "type": "Elder Dragon",
+      "isLarge": true,
+      "weakness": [
+        "Fire"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MHST-Versa_Pietru_Icon.png",
+          "info": "Legendary White Dragon. Lights up the skies, pierces through darkness; the very embodiment of hope."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e1a69978a80af35ce52d74c"
+      },
+      "name": "Baunos",
+      "type": "Wingdrake",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Baunos_Icon.png",
+          "info": "Winged wyverns that inhabit the Windward Plains. Rather than do their own hunting, they use their high vantage to scavenge carrion. Baunos take shelter to avoid the lightning during an Inclemency. When a little intimidation is called for, they vibrate their thorax feathers to create a deafening roar. You can get screamer pods from them with the Hook Slinger."
         }
       ]
     },
@@ -1416,6 +1525,11 @@
           "image": "MHGen-Blango_Icon.png",
           "info": "A Pelagus covered in entirely in white fur. Known to move in packs and led by a Blangonga. The Blangonga exerts tight control over the group, and any call to gather will be met immediately by the rank and file Blangos.",
           "danger": "2"
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Blango_Icon.png",
+          "info": "Fanged beasts with snow-white pelts. Blango generally travel in groups with a Blangonga leading them. As a pack, they work together efficiently to eliminate threats to their territory, responding instantly to their leader's commands."
         }
       ]
     },
@@ -1442,6 +1556,11 @@
           "image": "MHGen-Blangonga_Icon.png",
           "info": "Leader of a Blango pack, it is twice as large and recognized by its giant fangs and whiskers. It sends its pack to attack any trespassers. Its jumping power allows it great mobility in its home range of the Arctic Ridge.",
           "danger": "4"
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Blangonga_Icon.png",
+          "info": "Large, white fanged beasts that rule over other Blango, attacking intruders as a pack. Its muscularity and mobility allows it to strike swiftly, even on fresh snow, and pounce from long distances—so hunters with long-range weapons still need to stay on guard. Large tusks are the mark of a powerful leader."
         }
       ]
     },
@@ -1794,6 +1913,21 @@
     },
     {
       "_id": {
+        "$oid": "5e15699c8a80af35ce52d74c"
+      },
+      "name": "Bulaqchi",
+      "type": "Neopteron",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Bulaqchi_Icon.png",
+          "info": "Neopterons that inhabit the Windward Plains. They use their needle-like mouths to pour digestive juices into carrion to dissolve it into easily consumed fluids. Feeding makes them bloated and sluggish, so they have to rest on walls or ceilings. Their forelegs double as sensory organs that they use to assess their surroundings, but they are quite sensitive, so a loud noise is usually enough to immobilize a Bulaqchi."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1557f58a80af35ce52d72c"
       },
       "name": "Bullfango",
@@ -1980,6 +2114,21 @@
     },
     {
       "_id": {
+        "$oid": "5e156e978a80af35ce52d74c"
+      },
+      "name": "Ceratonoth",
+      "type": "Herbivore",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Ceratonoth_Icon.png",
+          "info": "Male Ceratonoth, known for their large herds. During sandstorms, they use their large spikes to channel any lightning strikes. This process sometimes causes fulgurite to form on parts of their bodies. A male responds quickly when a large predator attacks and makes an effort to lead his herd to safety."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1456b28a80af35ce52d723"
       },
       "name": "Chameleos",
@@ -2049,6 +2198,40 @@
     },
     {
       "_id": {
+        "$oid": "531569978a80af35ce52d74c"
+      },
+      "name": "Chatacabra",
+      "type": "Amphibian",
+      "isLarge": true,
+      "weakness": [
+        "Ice",
+        "Thunder"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Chatacabra_Icon.png",
+          "info": "Amphibians that use their long tongues to seize and devour prey such as Bulaqchi. Their evolved forelimbs store a sticky mucus-like substance. When agitated, Chatacabra rub their forelimbs against the ground to collect stone and ore, widening the range and destructiveness of their blows."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e1569978a80af35ce5ed74c"
+      },
+      "name": "Comaqchi",
+      "type": "Neopteron",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Comaqchi_Icon.png",
+          "info": "Neopterons that inhabit the Iceshard Cliffs. Comaqchi rarely move around, staying adhered to the walls most of the time in large colonies. Their forelegs are well adapted to striking, and they can use their well-developed tail stingers to inject a sleeping agent that make targets easier to prey upon."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5dfc951f9dabf81e7717cea4"
       },
       "name": "Conga",
@@ -2072,6 +2255,11 @@
           "image": "MH4U-Conga_Icon.png",
           "info": "Ape-like fanged beasts with pink fur. Conga prefer to live in smalls groups as oppposed to large packs and primarily inhabit warm, humid environments.",
           "danger": "2"
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Conga_Icon.png",
+          "info": "Fanged beasts with pink fur. Packs typically consist of females and juveniles. An adult male Congalala may occasionally be sighted within a pack, but these are non-social creatures that don't establish a chain of command. Beware their terrific flatulence, as they will use it to inflict stench on perceived threats."
         },
         {
           "game": "Monster Hunter Stories",
@@ -2106,7 +2294,8 @@
         "Paralysis"
       ],
       "weakness": [
-        "Fire"
+        "Fire",
+        "Ice"
       ],
       "games": [
         {
@@ -2120,6 +2309,11 @@
           "image": "MH4U-Congalala_Icon.png",
           "info": "A large fanged beast with pink fur, often found in warm, damp regions. Fond of mushrooms, Congalalas possess either poisonous or flaming breath, depending on the food available in their local habitat.",
           "danger": "2"
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Congalala_Icon.png",
+          "info": "Large fanged beasts with pink fur and a distinct crest, which the males sculpt with plant oils and juices as a sign of virility. Congalala are common in temperate forests and are therefore well researched. They're big eaters and love mushrooms, which they absorb and then exhale as a variety of potent breaths that inflict poison, blast, paralysis, and more."
         },
         {
           "game": "Monster Hunter Stories",
@@ -2393,6 +2587,21 @@
           "image": "MH4U-Dalamadur-Head_Icon.png",
           "info": "A huge elder dragon, massive beyond human comprehension. The only mention of its existence is found in fairy tales, which claim it can warp the very surface of the world and level mountains with a single twitch.",
           "danger": "6"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e1569978a80aa35ce52d74c"
+      },
+      "name": "Daltyhdon",
+      "type": "Herbivore",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Dalthydon_Icon.png",
+          "info": "Herbivores that live in herds and move between habitats in response to environmental changes. Dalthydon are bred as livestock and play an important role in human life. Although they are docile in general, when the herd is in danger, they assume a group defensive formation and use their evolved cranial plating as a weapon."
         }
       ]
     },
@@ -2682,6 +2891,28 @@
     },
     {
       "_id": {
+        "$oid": "5e1569978a8aaf35ce52d74c"
+      },
+      "name": "Doshaguma",
+      "type": "Fanged Beast",
+      "isLarge": true,
+      "subSpecies": [
+        "Guardian Doshaguma"
+      ],
+      "weakness": [
+        "Fire",
+        "Thunder"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Doshaguma_Icon.png",
+          "info": "Fanged beasts that are sometimes seen traveling in packs. Ruggedly built and extremely aggressive, Doshaguma won't hesitate to throw everything they've got at enemies - even other small monsters. They have been known to take prey back to their dens, which sometimes leads to violent disputes."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e15bcb78a80af35ce52d7a4"
       },
       "name": "Dreadking Rathalos",
@@ -2813,6 +3044,9 @@
       "name": "Ebony Odogaron",
       "type": "Fanged Wyvern",
       "isLarge": true,
+      "subSpecies": [
+        "Guardian Ebony Odogaron"
+      ],
       "elements": [
         "Dragon"
       ],
@@ -3137,6 +3371,9 @@
       "name": "Fulgur Anjanath",
       "type": "Brute Wyvern",
       "isLarge": true,
+      "subSpecies": [
+        "Guardian Fulgur Anjanath"
+      ],
       "elements": [
         "Thunder"
       ],
@@ -3269,6 +3506,21 @@
     },
     {
       "_id": {
+        "$oid": "5e1569998a80af35ce52d74c"
+      },
+      "name": "Gajios",
+      "type": "Leviathan",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Gajios_Icon.png",
+          "info": "Leviathans with distinct snouts that live near water. If the water is deep enough, a Gajios will stay submerged with only the tip of its nose exposed, waiting for prey to wander by. You can obtain bleeding pods with the Hook Slinger—but not without a fight."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1423e98a80af35ce52d6eb"
       },
       "name": "Gammoth",
@@ -3395,6 +3647,21 @@
           "game": "Monster Hunter World",
           "image": "MHW-Gastodon_Icon.png",
           "info": "Pack monsters that inhabit the Elder's Recess. They are easily angered by intruders, and will charge at monsters twice their size."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ae1569978a80af35ce52d74c"
+      },
+      "name": "Gelidron",
+      "type": "Amphibian",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Gelidron_Icon.png",
+          "info": "Amphibians commonly found in Oilwell Basin. Subcutaneous slime protects them from getting burned. Gelidron lay ambushes, waiting to snap up prey with their big, meaty tongues. Fine hairs on their digits, combined with sharp claws, allow them to climb straight up walls. Unfortunately for the Gelidron, their edible parts are delicious, putting them in high demand with carnivores in the wild...as well as in Azuz."
         }
       ]
     },
@@ -3823,7 +4090,7 @@
         "$oid": "5e15ba038a80af35ce52d79c"
       },
       "name": "Gore Magala",
-      "type": "???",
+      "type": "Demi Elder",
       "isLarge": true,
       "subSpecies": [
         "Chaotic Gore Magala"
@@ -3854,6 +4121,11 @@
           "image": "MHRS-Gore_Magala_Icon.png",
           "info": "Gore Magala possess wings with black, shroud-like membrane. They lack visual receptors, heightening their senses by scattering scales from their wings to ascertain the locations of lifeforms. At the peak of their senses, feelers extend from their head, their wings unfurl, and they become frenzied. They're feared not only for their sinister appearance but also for the mysterious Frenzy virus they carry.",
           "danger": "7"
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Gore_Magala_Icon.png",
+          "info": "Monsters that drape themselves in their great wings, like a black overcoat. They have no eye sensory organs, so instead they use a scattering of fine scales from their wings to locate prey. When their sensory capacity increases, antennae appear on their heads and they unfurl their wings, entering the aggressive Frenzy State. Their black scales can Frenzy other creatures as well, making them fearsome adversaries."
         }
       ]
     },
@@ -3930,6 +4202,11 @@
           "image": "MH4U-Gravios_Icon.png",
           "info": "Large wyverns found in volcanic areas. They possess a fiery breath attack and the ability to emit sleeping gas. Their bony carapaces are extremely tough, but expose a surprisingly brittle interior once destroyed.",
           "danger": "5"
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Gravios_Icon.png",
+          "info": "Large wyverns found in Oilwell Basin. They have a developed physique, powerful heat rays, and a host of gases they can emit from their body. Their bony carapaces are famously tough but expose a surprisingly brittle interior once destroyed."
         },
         {
           "game": "Monster Hunter Stories",
@@ -4294,6 +4571,143 @@
     },
     {
       "_id": {
+        "$oid": "5e1569978a80af35ce52d744"
+      },
+      "name": "Guardian Arkveld",
+      "type": "Construct",
+      "isLarge": true,
+      "elements": [
+        "Dragon"
+      ],
+      "ailments": [
+        "Dragonblight"
+      ],
+      "weakness": [
+        "Dragon"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Guardian_Arkveld_Icon.png",
+          "info": "An artificial species created by an ancient civilization and imbued with the power of a monster called Arkveld. It cannot reproduce and does not require food, relying instead on Wyvern Milk for energy. In addition to absorbing and discharging energy the way other Guardians do, Guardian Arkveld can also absorb elemental energy through the chainblades on its wings and use it for sustenance."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e1569978a80af35ce92d74c"
+      },
+      "name": "Guardian Doshaguma",
+      "type": "Construct",
+      "isLarge": true,
+      "weakness": [
+        "Fire",
+        "Ice",
+        "Thunder",
+        "Dragon"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Guardian_Doshaguma_Icon.png",
+          "info": "An artificial monster species created by an ancient civilization and imbued with Doshaguma's power. Guardian Doshaguma cannot reproduce and do not require food, relying instead on Wyvern Milk for energy. While anything but agile, they're tough enough to charge right through attacks without flinching, making them extremely dangerous."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e156997ca80af35ce52d74c"
+      },
+      "name": "Guardian Ebony Odogaron",
+      "type": "Construct",
+      "isLarge": true,
+      "elements": [
+        "Dragon"
+      ],
+      "ailments": [
+        "Bleeding",
+        "Dragonblight"
+      ],
+      "weakness": [
+        "Water"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Guardian_Ebony_Odogaron_Icon.png",
+          "info": "An artificial monster species created by an ancient civilization and imbued with Ebony Odogaron's power. Guardian Ebony Odogaron cannot reproduce and do not require food, relying instead on Wyvern Milk for energy. They will attempt to corner targets with flurries of attacks from their well-developed claws and tails."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e1569978a800f35ce52d74c"
+      },
+      "name": "Guardian Fulgur Anjanath",
+      "type": "Construct",
+      "isLarge": true,
+      "elements": [
+        "Thunder"
+      ],
+      "ailments": [
+        "Thunderblight"
+      ],
+      "weakness": [
+        "Water",
+        "Ice",
+        "Dragon"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Guardian_Fulgur_Anjanath_Icon.png",
+          "info": "An artificial monster species created by an ancient civilization and imbued with Fulgur Anjanath's power. Guardian Fulgur Anjanath cannot reproduce and do not require food, relying instead on Wyvern Milk for energy. Not only can the lightning charged in their bodies be released as an attack, they can also use it to empower themselves and perform vicious biting attacks."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5ee56997ba80af35ce52d74c"
+      },
+      "name": "Guardian Rathalos",
+      "type": "Construct",
+      "isLarge": true,
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [
+        "Fireblight",
+        "Poison"
+      ],
+      "weakness": [
+        "Thunder",
+        "Dragon"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Guardian_Rathalos_Icon.png",
+          "info": "An artificial monster species created by an ancient civilization and imbued with Rathalos's power. Guardian Rathalos cannot reproduce and do not require food, relying instead on Wyvern Milk for energy. Just like the original Rathalos, they are superior fliers and will attack more violently with their claws while airborne."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ee1569978a80af35ce52d74c"
+      },
+      "name": "Guardian Seikret",
+      "type": "Construct",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Guardian_Seikret_Icon.png",
+          "info": "Artificial wyverns created by an ancient civilization. They dash through the Ruins of Wyveria in search of Wyvern Milk, their source of energy. Unlike the original Seikret, the Guardian types are aggressive and have sharp, dangerous claws on their unique forelegs. They generally travel in packs of two or three, but if threatened, they may call for more help and try to surround the adversary."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1416d58a80af35ce52d6de"
       },
       "name": "Gypceros",
@@ -4323,6 +4737,11 @@
           "danger": "3"
         },
         {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Gypceros_Icon.png",
+          "info": "Wyverns that can stun enemies by striking their prominent crests to produce powerful flashes of light. Their stretchy, rubbery hide resists blunt impacts and reduces the effectiveness of shock traps. A smart hunter knows to maneuver carefully around the poisonous filth they spew, which drips from ceilings or down slopes."
+        },
+        {
           "game": "Monster Hunter Stories",
           "image": "MH4U-Gypceros_Icon.png",
           "info": "Crested Bird Wyverns. They strike their crests to generate blinding flashes and dazzle their enemies."
@@ -4331,6 +4750,21 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Gypceros_Icon.png",
           "info": "Crested Bird Wyverns. They strike their crests to generate blinding flashes and dazzle their enemies."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9e1569978a80af35ce52d74c"
+      },
+      "name": "Harpios",
+      "type": "Wingdrake",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Harpios_Icon.png",
+          "info": "Winged wyverns that are identifiable by the long, sharp horn on their heads—which just so happen to make great Slinger ammo. Large as the Harpios may be, they never attack hunters, choosing instead to stay by the water and prey on fish. On occasions when large fish scare the smaller ones to the surface, you might even get to see a bona fide Harpios feeding frenzy."
         }
       ]
     },
@@ -4422,6 +4856,31 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Hermitaur_Icon.png",
           "info": "These small, hard-shelled Carapaceons are common in the desert, where they lie in wait under the sand, lashing out, when prey wanders past them. Their brains are prized as a delicacy."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e15a9978a80af35ce52d74c"
+      },
+      "name": "Hirabami",
+      "type": "Leviathan",
+      "isLarge": true,
+      "elements": [
+        "Ice"
+      ],
+      "ailments": [
+        "Iceblight"
+      ],
+      "weakness": [
+        "Fire",
+        "Thunder"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Hirabami_Icon.png",
+          "info": "Leviathans that inhabit the Iceshard Cliffs. They have sharp, pincer-like tails and peculiar membrans on their necks that catch the wind and keep them aloft. Hirabami can sometimes be sighted nesting in groups along the cliffs, using their scales or foreclaws to cling to walls or ceiling while they sleep."
         }
       ]
     },
@@ -4764,6 +5223,30 @@
     },
     {
       "_id": {
+        "$oid": "4e1569978a80af35ce52d74c"
+      },
+      "name": "Jin Dahaad",
+      "type": "Leviathan",
+      "isLarge": true,
+      "elements": [
+        "Ice"
+      ],
+      "ailments": [
+        "Iceblight"
+      ],
+      "weakness": [
+        "Fire"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Jin_Dahaad_Icon.png",
+          "info": "A leviathan that sits at the peak of the Iceshard Cliffs' ecosystem. It surrounds its massive form in cold temperatures via ridge-like cooling organs across its body; the frost its limbs produce doubles as a potent weapon and a way to travel along walls and floating rocks."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1419a88a80af35ce52d6e1"
       },
       "name": "Jyuratodus",
@@ -5062,6 +5545,21 @@
     },
     {
       "_id": {
+        "$oid": "6e1569978a80af35ce52d74c"
+      },
+      "name": "Kranodath",
+      "type": "Bird Wyvern",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Kranodath_Icon.png",
+          "info": "Carnivores that prowl Oilwell Basin. Their skulls have evolved in a way that lets them expand and contract the plating, and lunge at prey with hammer-like blows. They hunt Gelidron and keep their packs small. There have been accounts of Kranodath engaging larger monsters while feeding, where they cling to the enemy's skull and stun it with repeated head bashes."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5dfda8049dabf81e7717ceac"
       },
       "name": "Kulu-Ya-Ku",
@@ -5282,6 +5780,27 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Lagombi_Icon.png",
           "info": "White Fanged Beasts with acute hearing. They slide on the ice at high speeds to chase down their prey."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ce1569978a80af35ce52d74c"
+      },
+      "name": "Lala Barina",
+      "type": "Temnoceran",
+      "isLarge": true,
+      "ailments": [
+        "Paralysis"
+      ],
+      "weakness": [
+        "Fire"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Lala_Barina_Icon.png",
+          "info": "Temnocerans native to the Scarlet Forest with distinctive, pirouette-like movements. Their fluids contain a neuroplegic agent which they mix with water to produce red, petal-like bristles on their abdomens. When agitated, Lala Barina open these bristles like a deadly, blossoming flower and release them as florets that paralyze whatever they come into contact with."
         }
       ]
     },
@@ -5792,6 +6311,11 @@
           "danger": "6"
         },
         {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Mizutsune_Icon.png",
+          "info": "Specially evolved leviathans with sleek, lithe bodies, Mizutsune can secrete a peculiar foam that covers their foes in immobilizing bubbles. Once their prey's movement is impaired, they'll close in with spry, dance-like movements."
+        },
+        {
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Mizutsune_Icon.png",
           "info": "These beautiful monsters with white and purple scales exude a magical aura, yet they are far from harmless. They secrete a peculiar fluid that cover their foes in immobilizing bubbles. Once their prey's movement is impaired, it closes in with spry, dance-like movements."
@@ -6145,6 +6669,11 @@
           "danger": "4"
         },
         {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Nerscylla_Icon.png",
+          "info": "Temnocerans that inhabit the Iceshard Cliffs. They weave vast, sticky webs across their territory, using them and various status ailments to corner prey before utilizing pincer-like jaws to finish it off. Sometimes dead Gypceros can be found in the webs, the hides of which Nerscylla are known to adorn themselves with after devouring the rest of the carcass."
+        },
+        {
           "game": "Monster Hunter Stories",
           "image": "MH4U-Nerscylla_Icon.png",
           "info": "Temnocerans that build nests of sticky webbing to ensnare prey, which they rend with their mandibles."
@@ -6153,6 +6682,21 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Nerscylla_Icon.png",
           "info": "Temnocerans that build nests of sticky webbing to ensnare prey, which they rend with their mandibles."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e1569978a80a835ce52d74c"
+      },
+      "name": "Nerscylla Hatchling",
+      "type": "Temnoceran",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Nerscylla_Hatchling_Icon.png",
+          "info": "The larval form of a temnoceran that inhabits the Iceshard Cliffs. At this stage they cannot use webbing or status ailments like adult Nerscylla, but these little fellows like to gang up. surround prey, and then pounce all at once."
         }
       ]
     },
@@ -6246,6 +6790,30 @@
           "game": "Monster Hunter World",
           "image": "MHW-Noios_Icon.png",
           "info": "Wingdrakes that will produce a sound similar to screamer pods when startled. Use meat to get their attention, and then hunt them for materials, or use them as transportation"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5ee560978a80af35ce52d74c"
+      },
+      "name": "Nu Udra",
+      "type": "Cephalopod",
+      "isLarge": true,
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [
+        "Fireblight"
+      ],
+      "weakness": [
+        "Water"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Nu_Udra_Icon.png",
+          "info": "The cephalopod that reigns supreme over Oilwell Basin's ecosystem. Usually, when sighted, Nu Udra is covered in oilsilt, but when enraged it will ignite the coating, transfiguring itself into a horror of flame. The oculi that appear on its body and mant arms are presumed to be sensory organs, but the truth is still being investigated."
         }
       ]
     },
@@ -6410,6 +6978,21 @@
     },
     {
       "_id": {
+        "$oid": "511569978a80af35ce52d74c"
+      },
+      "name": "Piragill",
+      "type": "Leviathan",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs_Piragill_Icon.png",
+          "info": "Leviathans whose bodies are covered with beautiful scales and sharp blades. As a pack, they work together to surround prey, but since most Piragill are too timid to make the kill, they usually wait for an opening and lunge all at once. Don't underestimate them; on water, their speed is unmatched, and those blades will make mincemeat of a hunter that wanders too close."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1455af8a80af35ce52d721"
       },
       "name": "Plesioth",
@@ -6533,6 +7116,21 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Popo_Icon.png",
           "info": "Herd-forming Herbivores covered in long, thick fur. Popo meat is nutritious and prized by gourmands."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e1569978a80af33ce52d74c"
+      },
+      "name": "Porkeplume",
+      "type": "Bird Wyvern",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Porkeplume_Icon.png",
+          "info": "Bird wyverns that live in herds at the heart of the Ruins of Wyveria. Porkeplumes are extremely timid and will protect themselves against threats by puffing out the bristles on their heads. If the situation escalates, a member of the herd will slam into the foe with its bristles, giving the other members a window to escape. The head bristles can be used as bleeding pods for the Slinger."
         }
       ]
     },
@@ -6711,6 +7309,30 @@
     },
     {
       "_id": {
+        "$oid": "5e1569c78a80af35ce52d74c"
+      },
+      "name": "Quematrice",
+      "type": "Brute Wyvern",
+      "isLarge": true,
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [
+        "Fireblight"
+      ],
+      "weakness": [
+        "Water"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Quematrice_Icon.png",
+          "info": "Brute wyverns with disproportionately long tails. They spread a flammable substance which vaporizes quickly, then ignite it by dragging their tails along the ground. By nature, Quematrice rarely hunt their own prey, and instead scavenge herbivore carrion left behind by other predators. This often leads to confrontations with other, smaller carnivores."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e15823c8a80af35ce52d778"
       },
       "name": "Qurupeco",
@@ -6783,6 +7405,21 @@
           "game": "Monster Hunter World",
           "image": "MHW-Radobaan_Icon.png",
           "info": "A gigantic brute wyvern that eats the bones of carcasses found in the Rotten Vale, using some of it as armor. It also rolls into a ball as a form of attack and transportation."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5ee569978a80af35ce52d74c"
+      },
+      "name": "Rafma",
+      "type": "Herbivore",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Rafma_Icon.png",
+          "info": "Herbivores that live primarily in cold regions. Rafma form herds with a large alpha at the head. When threatened, the alpha discharges static energy stored in its horn to shock foes and defend the herd. This horn can also be targeted with the Hook Slinger to get paralytic ammo. Rafma have been sighted moving along dizzyingly steep cliffsides, to the wonderment of observers."
         }
       ]
     },
@@ -6927,7 +7564,8 @@
         "Azure Rathalos",
         "Silver Rathalos",
         "Dreadking Rathalos",
-        "Apex Rathalos"
+        "Apex Rathalos",
+        "Guardian Rathalos"
       ],
       "elements": [
         "Fire"
@@ -6970,6 +7608,11 @@
           "image": "MHRise-Rathalos_Icon.png",
           "info": "Terrible wyverns called the 'Kings of the Skies'. Along with Rathians, they stake wide territories centered around their nests. Rathalos descend on invaders from the sky, attacking with poison claws and breath of fire.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Rathalos_Icon.png",
+          "info": "Fearsome male wyverns known as the \"Kings of the Skies.\" Alongside the Rathian, they stake out a wide territory around their nests, and it is the male's role to watch from above. Armed with powerful poisonous claws and fiery breath, Rathalos use their aerial prowess to descend on invaders."
         },
         {
           "game": "Monster Hunter Stories",
@@ -7036,6 +7679,11 @@
           "image": "MHRise-Rathian_Icon.png",
           "info": "Fire-breathing female wyverns, also known as the \"Queens of the Land\". With powerful legs and poison-secreting tails, they hunt mainly on the ground. Sometimes seen preying as a couple, Rathians and Rathalos cooperate well.",
           "danger": "4"
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Rathian_Icon.png",
+          "info": "Fire-breathing female wyverns known as the \"Queens of the Land.\" Their powerful legs and venomous tails make them efficient ground hunters. At times, Rathian and Rathalos can be sighted hunting as a couple. After laying eggs, Rathian are extremely watchful of their nests. Proceed with extra caution, as a mother will move swiftly to protect her young."
         },
         {
           "game": "Monster Hunter Stories",
@@ -7149,6 +7797,31 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Remobra_Icon.png",
           "info": "Snake Wyverns that have mastered flight, and soar in search of weakened prey to swoop down upon. They are often seen in places where Elder Dragons appear, giving them a bad reputation as ill omens."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e156997ea80af35ce52d74c"
+      },
+      "name": "Rey Dau",
+      "type": "Flying Wyvern",
+      "isLarge": true,
+      "elements": [
+        "Thunder"
+      ],
+      "ailments": [
+        "Thunderblight"
+      ],
+      "weakness": [
+        "Water",
+        "Ice"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Rey_Dau_Icon.png",
+          "info": "The flying wyvern that reigns supreme over the Windward Plains' ecosystem. It has adapted to the Sandtide - when it most frequently appears - and is able to store, amplify and discharge the storm's heavy lightning to lethal effect. Rey Dau is highly territorial and will attack any and all intruders on sight. The fulgurite against its carapace emits a sound that puts every monster in the region on guard."
         }
       ]
     },
@@ -7316,6 +7989,27 @@
           "image": "MHRS-Risen_Crimson_Glow_Valstrax_Icon.png",
           "info": "Risen Crimson Glow Valstrax are elder dragons that have found a way to overcome their affliction. By suppressing the Qurio virus, they have gained great strength and new abilities. Their abundance of dragon energy has granted them greater agility, and even more devastating explosive powers. Very few will be able to withstand their ferocious attacks. When their anger reaches its peak, they'll enter into their Risen state and their body will begin to glow.",
           "danger": "10"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e1549978a80af35ce52d74c"
+      },
+      "name": "Rompopolo",
+      "type": "Brute Wyvern",
+      "isLarge": true,
+      "ailments": [
+        "Poison"
+      ],
+      "weakness": [
+        "Water"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Rompopolo_Icon.png",
+          "info": "Dappled brute wyverns that prowl Oilwell Basin. They use their tails to inject gas into the ground and detonate it, then feed on the small creatures that are unearthed. The toxic gas they spray from their tongues serve to weaken prey, which they then finish off with the blasts. Rompopolo are extremely territorial and will readily engage their own kind."
         }
       ]
     },
@@ -8358,6 +9052,21 @@
     },
     {
       "_id": {
+        "$oid": "5e1569978a80af356e52d74c"
+      },
+      "name": "Talioth",
+      "type": "Bird Wyvern",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Talioth_Icon.png",
+          "info": "Carnivores that prowl the Windward Plains. Their distinct jaw is designed to grab prey and not let go, and they excel at working together to hunt and deal with intruders. It's not uncommon to see a pack of Talioth take on a bigger monster and win by sheer numbers; a clever hunter will take advantage of this and use Talioth to distract or weaken their main target."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e157add8a80af35ce52d769"
       },
       "name": "Teostra",
@@ -8839,6 +9548,30 @@
     },
     {
       "_id": {
+        "$oid": "5e156997ba80af35ce52d74c"
+      },
+      "name": "Uth Duna",
+      "type": "Leviathan",
+      "isLarge": true,
+      "elements": [
+        "Water"
+      ],
+      "ailments": [
+        "Waterblight"
+      ],
+      "weakness": [
+        "Thunder"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Uth_Duna_Icon.png",
+          "info": "The leviathan that reigns supreme over the Scarlet Forest's ecosystem. It has adapted to water-rich environments and is sighted most often during the Downpour. Uth Duna's secretions when combined with water form a protective veil that not only absorbs hostile blows but also adds weight, which it slams down with enough force to sweep away surrounding threats in the resulting wave."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e155ed08a80af35ce52d737"
       },
       "name": "Vaal Hazak",
@@ -9058,8 +9791,13 @@
           "info": "Neopterons with paralyzing poison stingers on their abdomen. Vespoids adapt to almost any environment, and have been observed in many regions. Their sharp stingers are powerful enough to let them relentlessly jab any outsiders with a paralytic agent. They are delicate, weak to impacts, and make great materials for toxic weaponry."
         },
         {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Vespoid_Icon.png",
+          "info": "Neopterons with paralyzing poison stingers on their abdomens. Since Vespoids are attracted to light, hunters can use brightmoss to mark large monsters, which Vespoid will then attack and paralyze. To finish off a Vespoid without damaging its delicate materials, a hunter must avoid blunt trauma and use attacks that gradually drain its health. Vespoid fluids are useful for crafting with monster bones."
+        },
+        {
           "game": "Monster Hunter Stories",
-          "image": "MHGen-Vespoid_Icon.png",
+          "image": "MHST-Vespoid_Icon.png",
           "info": "Giant Wasp-like Neopeterons with paralyzing stingers, which they use on any who stray too close."
         },
         {
@@ -9314,6 +10052,24 @@
     },
     {
       "_id": {
+        "$oid": "be1569978a80af35ce52d74c"
+      },
+      "name": "Xu Wu",
+      "type": "Cephalopod",
+      "isLarge": true,
+      "weakness": [
+        "Ice"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Xu_Wu_Icon.png",
+          "info": "Cephalopod predators whose prey include Guardian monsters. The mucus secreted from their tentacles hardens quickly into sharp edges that resemble blades or spears, which is why some call Xu Wu the \"Piercing Assassin\". The sizable mouth hidden on their underside allows them to devour even rather large prey."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1559948a80af35ce52d72f"
       },
       "name": "Yian Garuga",
@@ -9395,6 +10151,11 @@
           "image": "MH4U-Yian_Kut-Ku_Icon.png",
           "info": "A bird wyvern with a huge beak and large ears that splay open when it is angered. Quick on its feet, and known to be territorial. It's known for its love of Konchu, and has been observed digging them up out of the ground to swallow them whole.",
           "danger": "3"
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Yian_Kut-Ku_Icon.png",
+          "info": "Bird wyverns with impressive beaks and large ears. They tend to be skittish but will sometimes initiate attacks on a perceived threat. Yian Kut-Ku arrive in large groups during the season of Plenty in the Scarlet Forest. The absence of eggs or young suggests that the purpose of this is not to breed, but rather to seek out mates and nourishment."
         },
         {
           "game": "Monster Hunter Stories",
@@ -9564,6 +10325,32 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Zinogre_Icon.png",
           "info": "Fanged Wyverns that store the electrical energy of the countless Thunderbugs that they gather."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e1569978a80afd5ce52d74c"
+      },
+      "name": "Zoh Shia",
+      "type": "Construct",
+      "isLarge": true,
+      "elements": [
+        "Fire",
+        "Thunder"
+      ],
+      "ailments": [
+        "Fireblight",
+        "Thunderblight"
+      ],
+      "weakness": [
+        "Dragon"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Xu_Wu_Icon.png",
+          "info": "A massive Guardian that has been feeding off the Dragontorch's energy. Its body is encased in crystallized Wyvern Milk, allowing it to regenerate. Zoh Shia, like other Guardians, excels at energy attacks and can produce repeated explosions to crystallize the whole area. Beneath its white Guardian coat, its body pulses with dark recollection - which you may see, should it reveal its full power from the days of yore."
         }
       ]
     },
