@@ -3452,7 +3452,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRS-Gaismagorm.png",
+          "image": "MHRS-Gaismagorm_Icon.png",
           "info": "A gargantuan monster living in the darkest depths since ancient times. Gaismagorm's rock-like forearms boast tenacious strength which allows it to burrow underground. It has a symbiotic relationship with the Qurio, and feeds on their life force for energy. Once it has chosen a place to nest, it collapses the surrounding rock bed to create an opening to the surface. The opening forms a massive crater in which it releases the Qurio through.",
           "danger": "10"
         }
@@ -3578,7 +3578,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRS-Garangolm.png",
+          "image": "MHRS-Garangolm_Icon.png",
           "info": "A monster characterized by its massive and rigid body. Garangolm are generally placid, living in regions with fertile soil. Their sap-like fluids can promote plant growth, gorging a symbiotic relationship with flora that grows in their bodies. They can also use that sap to harden plants or the surrounding soil, outfitting their bodies and enhancing their attacks."
         }
       ]
@@ -5713,6 +5713,11 @@
           "image": "MHGen-Lagiacrus_Icon.png",
           "info": "Leviathans that exist at the top of the aquatic food chain. Feared by sailors as the \"Lords of the Seas\", Lagiacrus store enough electricity in their spinal organs to make the oceans surge. Occasionally they can be found resting on land as well.",
           "danger": "5"
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Lagiacrus_Icon.png",
+          "info": "Leviathans that exist atop the vast aquatic food chain. Lagiacrus generate energy via their hides to store in their spinal organs, and are capable of discharging a current strong enough to boil the seawater around them. They have been sighted fighting other monsters in the Scarlet Forest, presumably drawn in from other regions in search of prey and more fertile environs."
         },
         {
           "game": "Monster Hunter Stories",
@@ -8485,6 +8490,11 @@
           "danger": "7"
         },
         {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Seregios_Icon.png",
+          "info": "Fiercely territorial flying wyverns known for the sharp, blade-like scales covering their bodies. Boasting swift aerial mobility and lightning-fast footwork, Seregios use their powerful hind legs to make quick work of their prey. Reports confirm Seregios also have the ability to launch the scales from their bodies, causing lacerations that bleed profusely."
+        },
+        {
           "game": "Monster Hunter Stories",
           "image": "MH4U-Seregios_Icon.png",
           "info": "Flying Wyvern known for its lustrous golden scales. Its scales can be launched at prey in high-speed attacks."
@@ -10349,7 +10359,7 @@
       "games": [
         {
           "game": "Monster Hunter Wilds",
-          "image": "MHWilds-Xu_Wu_Icon.png",
+          "image": "MHWilds-Zoh_Shia_Icon.png",
           "info": "A massive Guardian that has been feeding off the Dragontorch's energy. Its body is encased in crystallized Wyvern Milk, allowing it to regenerate. Zoh Shia, like other Guardians, excels at energy attacks and can produce repeated explosions to crystallize the whole area. Beneath its white Guardian coat, its body pulses with dark recollection - which you may see, should it reveal its full power from the days of yore."
         }
       ]
