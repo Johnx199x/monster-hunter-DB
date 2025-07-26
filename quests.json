@@ -16338,6 +16338,210 @@
     "game": "Monster Hunter Portable 3rd", 
     "difficulty": "1", 
     "objective": "Deliver 20 Unique Mushrooms"
+  },{
+
+    "_id": {
+        "$oid": "99" 
+    },
+    "name": "Violent Carnival",
+    "client": "Investigator", 
+    "description": "Speed... The fastest... I want them to stop at any rate. Come back safely.", 
+    "reward":  1200,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "2", 
+    "objective": "Slay 10 Bullfango",
+    "targets":[
+      "Bullfango"
+    ]
+  },{
+
+    "_id": {
+        "$oid": "100" 
+    },
+    "name": "Jaggia Extermination!",
+    "client": "Concerned villager", 
+    "description": "Do you think Jaggia can increase their population? No way! Our field got damaged recently because of them. They must be killed. Please hunter, do it right now", 
+    "reward": 1200 ,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "2", 
+    "objective": "Slay 3 Jaggia",
+    "targets":[
+      "Jaggia"
+    ]
+  },{
+
+    "_id": {
+        "$oid": "101" 
+    },
+    "name": "Sand Brute Barroth!",
+    "client": "Badly-bruised hunter", 
+    "description": "Anyway, I was too obstinate. A single blow on the head is not enough. Instead my bultt got blown sky high. It's to unpleasant to accept a second defeat. Would you challenge it for me?", 
+    "reward": 2400 ,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "2", 
+    "objective": "Hunt the Barroth",
+    "targets":[
+      "Barroth"
+    ]
   }
+,{
+
+    "_id": {
+        "$oid": "102" 
+    },
+    "name": "The Desert Gourmand",
+    "client": "Skilled Craftsman", 
+    "description": "A pack of carts went into the desert for a delivery. When they got to the middle, a scream came from behind and each cart suddenly vanished. I am the only survivor.", 
+    "reward": 3000 ,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "2", 
+    "objective": "Hunt the Nibelsnarf",
+    "targets":[
+      "Nibelsnarf"
+    ]
+  }
+,{
+
+    "_id": {
+        "$oid": "103" 
+    },
+    "name": "Trickster Chase!",
+    "client": "Female hunter", 
+    "description": "Oh, I can still hear that call! It's a strange, very loud noise. After that, another monster suddenly appeared. Please kill it", 
+    "reward": 2400 ,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "2", 
+    "objective": "Hunt the Qurupeco",
+    "targets":[
+      "Qurupeco"
+    ]
+  }
+,{
+
+    "_id": {
+        "$oid": "104" 
+    },
+    "name": "Rockslide",
+    "client": "Peddler", 
+    "description": "Bee amazed! Do you think a monster can just roll and glow like a rock? Surely, it's a creepy monster. Somebody should stop this crazy, and lazy, monster.", 
+    "reward": 2400 ,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "2", 
+    "objective": "Hunt the Volvidon",
+    "targets":[
+      "Volvidon"
+    ]
+  }
+,{
+
+    "_id": {
+        "$oid": "105" 
+    },
+    "name": "Sandy Plains Delicacy Swim!?",
+    "client": "Whimsical cook", 
+    "description": "A light liver. It's the best luxury to have. I'll prefer those from a flying fish. That intense aroma!", 
+    "reward":  1200,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "2", 
+    "objective": "Deliver 5 Monster Guts"
+  }
+,{
+
+    "_id": {
+        "$oid": "106" 
+    },
+    "name": "Current Events",
+    "client": "Mystery Girl", 
+    "description": "Mystery. Oh my. I saw this person drowning in the wate. I ask him why. He replied - a yellow monster. That's intriguing, eh? Solve this mystery, hunter!", 
+    "reward":  2400,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "2", 
+    "objective": "Hunt the Royal Ludroth",
+    "targets":[
+      "Royal Ludroth"
+    ]
+  },{
+
+    "_id": {
+        "$oid": "107" 
+    },
+    "name": "Pirates of the Island",
+    "client": "Fisherman", 
+    "description": "Oh dear! These freaky guys just stole the fish that I've caught. I need to teach them a lesson. I hand it over to you hunter!", 
+    "reward":  1200,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "2", 
+    "objective": "Slay 10 Ludroth",
+    "targets":[
+      "Ludroth"
+    ]
+  },{
+
+    "_id": {
+        "$oid": "108" 
+    },
+    "name": "The Creeping Venom",
+    "client": "Proud Hunter", 
+    "description": "When I saw it for the first time, it seemed nice. It alwais hide in the caves. But something happened. It just vanished!", 
+    "reward":  3000,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "2", 
+    "objective": "Hunt the Gigginox",
+    "targets":[
+      "Gigginox"
+    ]
+  },{
+
+    "_id": {
+        "$oid": "109" 
+    },
+    "name": "The Snowbound Slider",
+    "client": "Diligent Observer", 
+    "description": "I have a report from the Tundra region! A white rabbit just appeared! Please hunt it and take it down. I was covered with snow and I couldn't move. I was only here in my observatory", 
+    "reward": 2400 ,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "2", 
+    "objective": "Hunt the Lagombi",
+    "targets":[
+      "Lagombi"
+    ]
+  },{
+
+    "_id": {
+        "$oid": "110" 
+    },
+    "name": "Cold Stones",
+    "client": "Female Geologist", 
+    "description": "A frozen and fascinating land! Geologists like me want to explore this area, but I can't do it on my own as it's too dangerous! Could you bring me 8 Bloodstones? Thank you and nice to meet you!", 
+    "reward":  900,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "2", 
+    "objective": "Deliver 8 Bloodstones"
+  }
+
   ]
 }
