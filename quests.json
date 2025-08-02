@@ -16541,6 +16541,311 @@
     "game": "Monster Hunter Portable 3rd", 
     "difficulty": "2", 
     "objective": "Deliver 8 Bloodstones"
+  },{
+
+    "_id": {
+        "$oid": "111" 
+    },
+    "name": "Harvest Tour: Misty Peaks",
+    "client": "Village Chief", 
+    "description": "Materials can be collected from the Misty Peaks. As I worked hard, I can give you the expenses to your trip. If you deliver the paw pass ticket to the supply box, the quest is clear!", 
+    "reward":12  ,
+    "isKey": false , 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "3", 
+    "objective": "Survive until Time Over or Deliver the Paw Pass Ticket"
+  },{
+
+    "_id": {
+        "$oid": "112" 
+    },
+    "name": "Harvest Tour: Sandy Plains",
+    "client": "Village Chief", 
+    "description": "Materials can be collected from the Sandy Plains. As I worked hard, I can give you the expenses to your trip. If you deliver the paw pass ticket to the supply box, the quest is clear!", 
+    "reward": 12 ,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "3", 
+    "objective": "Survive until Time Over or Deliver the Paw Pass Ticket"
+  },{
+
+    "_id": {
+        "$oid": "113" 
+    },
+    "name": "Harvest Tour: Flooded Forest",
+    "client": "Village Chief", 
+    "description": "Materials can be collected from the Flooded Forest. As I worked hard, I can give you the expenses to your trip. If you deliver the paw pass ticket to the supply box, the quest is clear!", 
+    "reward":  12,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "3", 
+    "objective": "Survive until Time Over or Deliver the Paw Pass Ticket"
+  },{
+
+    "_id": {
+        "$oid": "114" 
+    },
+    "name": "Field Trip",
+    "client": "Excited Teacher", 
+    "description": "My students want to watch a brave fight between a hunter and a monster. Please show them a wonderful brawl. A Great Jaggi is close by!", 
+    "reward":2400  ,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "3", 
+    "objective": "Hunt the Great Jaggi",
+    "targets":[
+      "Great Jaggi"
+    ]
+  },{
+
+    "_id": {
+        "$oid": "115" 
+    },
+    "name": "Jaggi Hunting Operations",
+    "client": "Selfish Princess", 
+    "description": "This is a competion to turn us to a vassals. We ask to saly a pack of jaggi's. But I'm a  princess and not a maid! Please hurry and help me.", 
+    "reward": 1800 ,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "3", 
+    "objective": "Saly 20 Jaggi",
+    "targets":[
+      "Jaggi"
+    ]
+  },{
+
+    "_id": {
+        "$oid": "116" 
+    },
+    "name": "Mushroom Juice Dream",
+    "client": "Housewife", 
+    "description": "Featuring a mushroom juice! Wohohoho.. Hunter please help me to get at least 20 Unique Mushrooms to complete my special juice. I might give you some too! Wohohoho", 
+    "reward":1800  ,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "3", 
+    "objective": "Deliver 20 Unique Mushrooms"
+  },{
+
+    "_id": {
+        "$oid": "117" 
+    },
+    "name": "Sand Brute Barroth!",
+    "client": "Badly-bruised hunter", 
+    "description": "Anyway, I was too obstinate. A single blow on the head is not enough. Instead my bultt got blown sky high. Its to unpleasant to accept a twice defeat. Would you challenge it for me?", 
+    "reward":  4800,
+    "isKey":false , 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "3", 
+    "objective": "Hunt the Barroth",
+    "targets":[
+      "Barroth"
+    ]
+  },{
+
+    "_id": {
+        "$oid": "118" 
+    },
+    "name": "Pain in the Plains",
+    "client": "Injured Villager", 
+    "description": "A Great Jaggi accompanied by its minions were walking around in a lordly manner. It is best to let a professional hunter to do the job!", 
+    "reward":  2400,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "3", 
+    "objective": "Hunt the Great Jaggi",
+    "targets":[
+      "Great Jaggi"
+    ]
+  },{
+
+    "_id": {
+        "$oid": "119" 
+    },
+    "name": "The Rhenoplos Fuss",
+    "client": "Chief of Sandy Plains", 
+    "description": "Greetings hunter! A monster is hitting the village wall from the outside. If we not get rid of it. The wall would probably collapsed. Do something else!", 
+    "reward":  1800,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "3", 
+    "objective": "Slay 8 Rhenoplos",
+    "targets":[
+      "Rhenoplos"
+    ]
+  },{
+
+    "_id": {
+        "$oid": "120" 
+    },
+    "name": "Sandy Plains Delicacy Swim!?",
+    "client": "Whimsical epicure", 
+    "description": "A light liver. It's simply the best luxury there is. I prefer those that come from a flying fish. That intense aroma!",
+    "reward":  1800,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "3", 
+    "objective": "Deliver 10 Monster Guts"
+},{
+
+    "_id": {
+        "$oid": "121" 
+    },
+    "name": "Save our Boat",
+    "client": "Fisherman", 
+    "description": "They were hit by its water. They can't recover much of their stamina. It's something like their stamina is unstable! Be careful of this purple monster!", 
+    "reward":  4800,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "3", 
+    "objective": "Hunt the Royal Ludroth",
+    "targets":[
+      "Royal Ludroth"
+    ]
+  },{
+
+    "_id": {
+        "$oid": "122" 
+    },
+    "name": "Toxic Troublemaker",
+    "client": "Reckless Explorer", 
+    "description": "I removed some thick grass on the ground when someone stepped onto it. He was so orange in color and especially big. I wasn't able to deal with it. So I hand it over to you. I'm praying for you luck", 
+    "reward":  3600,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "3", 
+    "objective": "Hunt the Great Wroggi",
+    "targets":[
+      "Great Wroggi"
+    ]
+  },{
+
+    "_id": {
+        "$oid": "123" 
+    },
+    "name": "Big Boar Came to Race Hard!",
+    "client": "Feudal Lord", 
+    "description": "A dangerous monster called Bulldrome is attacking people indiscriminately. It has becomes a huge menace in the forest. I want you to reject this threat. Thank you!", 
+    "reward":  3000,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "3", 
+    "objective": "Hunt the Bulldrome",
+    "targets":[
+      "Bulldrome"
+    ]
+  },{
+
+    "_id": {
+        "$oid": "124" 
+    },
+    "name": "No Love for Ludroth",
+    "client": "Former Caravan Guard", 
+    "description": "I don't want to remember it again! I was defeated by this group. Teach them a lesson please.", 
+    "reward":  1800,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "3", 
+    "objective": "Slay 10 Ludroth",
+    "targets":[
+      "Ludroth"
+    ]
+  },{
+
+    "_id": {
+        "$oid": "125" 
+    },
+    "name": "Goldenfish Gift",
+    "client": "Selfish Princess", 
+    "description": "Its my maid's birthday. I want to give her a present. A precious goldenfish to be her pet. Please catch at least 3 of them. Use the right bait!", 
+    "reward": 1800 ,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "3", 
+    "objective": "Deliver 3 Goldenfish"
+  },{
+
+    "_id": {
+        "$oid": "126" 
+    },
+    "name": "Qurupeco Bird Hunting!",
+    "client": "Young Hunter", 
+    "description": "Oh, I still hearing that pounding! Its a strange very loud voice. After that, another monster suddenly appear. Please kill it!",
+    "reward": 4200 ,
+    "isKey": false , 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "3", 
+    "objective": "Hunt the Qurupeco",
+    "targets":[
+      "Qurupeco"
+    ]
+  },{
+
+    "_id": {
+        "$oid": "127" 
+    },
+    "name": "My Lord's Errand",
+    "client": "Silent bodyguard", 
+    "description": "My master ask me to go out in an isolated Island. However, I heard rumors that Arzuros might appeared. And its to dangerous for my master! You must kill it before we reach the island.", 
+    "reward": 3000 ,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "3", 
+    "objective": "Hunt the Arzuros",
+    "targets":[
+      "Arzuros"
+    ]
+  },{
+
+    "_id": {
+        "$oid": "128" 
+    },
+    "name": "Not Easy Being Gray",
+    "client": "Fishing port mistress", 
+    "description": "I let my men to search on this island. To find my idiotic son! But its to troublesome. Jaggi is just everywhere. Could you please do something about it.", 
+    "reward": 1800 ,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "3", 
+    "objective": "Slay 8 Jaggi",
+    "targets":[
+      "Jaggi"
+    ]
+  },{
+
+    "_id": {
+        "$oid": "129" 
+    },
+    "name": "Feast of the Flying Beetle",
+    "client": "Beautiful balck hair", 
+    "description": "For our evening ball. I need a special custome. To make it happen, I need materials from a Bnahabra. I will absolutely owe you if you help me with this.", 
+    "reward": 1800 ,
+    "isKey": false, 
+    "questType": "Guild", 
+    "game": "Monster Hunter Portable 3rd", 
+    "difficulty": "3", 
+    "objective": "Slay 50 Bnahabra",
+    "targets":[
+      "Bnahabra"
+    ]
   }
 
   ]
